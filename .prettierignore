@@ -1,0 +1,10 @@
+.idea
+.next
+.local
+.public
+node_modules
+*-lock.json
+*.d.ts
+tsconfig.json
+.eslintrc.json
+package.json
