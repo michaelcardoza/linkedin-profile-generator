@@ -1,8 +1,6 @@
-import React from 'react';
-
 export const Header = () => {
   return (
-    <header className="py-8">
+    <header className="pt-12 pb-24">
       <h1 className="mb-2 text-2xl font-medium text-slate-300">
         Profile Generator
       </h1>
